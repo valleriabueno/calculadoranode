@@ -1,0 +1,26 @@
+{
+  "name": "calculadoranode",
+  "version": "1.0.0",
+  "description": "calculadora node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valleriabueno/calculadoranode.git"
+  },
+  "author": "Valéria Bueno do Valle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valleriabueno/calculadoranode/issues"
+  },
+  "homepage": "https://github.com/valleriabueno/calculadoranode#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
